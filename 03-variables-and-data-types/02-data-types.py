@@ -19,3 +19,7 @@ user_dict = {
 }
 
 
+# the special value None
+# an object frequently used to represent the absence of a value
+
+child = None
